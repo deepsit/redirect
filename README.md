@@ -1,1 +1,1 @@
-# redirect
+# redirect domain, it's crap :/
